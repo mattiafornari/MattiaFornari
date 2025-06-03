@@ -14,13 +14,13 @@
 
 ### 👨‍💻 About Me :
 I am a Computer Engineering Student 💻:.
-- 🧑‍🎓: I’m currently focusing on Machine Learning, AI, Deep Learning, Computer Vision, Autonomous Mobile Robotics.
+- 🧑‍🎓: I’m currently focusing on Machine Learning, AI, Deep Learning, Computer Vision and Autonomous Mobile Robotics.
 <!--- 🤖: I'm also interested in Advanced Math (Calculus and so on) and Quantum Computing.
 - 🔭 I’m currently working on mini-drone project⚡-->
-- 🔭 I’m currently working on HAR maching learning based project⚡
+- 🔭 I’m currently working on Multiclass Image Classification project⚡
 ---
 
-### :hammer_and_wrench: Languages, frameworks and tools well known and used :
+### :hammer_and_wrench: Languages, frameworks and tools I know and am learning to use: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@ I am a Computer Engineering Student 💻:.
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" title="RUST" alt="RUST" width="40" height="40"/>&nbsp;-->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;-->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;-->
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;-->
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;--
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>&nbsp;-->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg"  title="MATERIALIZECSS" alt="MATERIALIZECSS" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -65,12 +65,12 @@ I am a Computer Engineering Student 💻:.
   
 </div>
 
-Inoltre: Simulink, CasADi (conoscenze limitate), PIL, scikit-image (conoscenze base). Conoscenza limitata in streamlit, flask, fastapi.
+Inoltre: Simulink (conoscenze base), PIL, scikit-image (conoscenze base). Conoscenza limitata in streamlit, flask, fastapi.
 
 ---
 
 ### ❗: Projects :
-Soon new projects regarding Machine/Deep Learning, AI, Computer Vision, Autonomous Mobile Robotics and Computer Graphics.
+Soon new projects concerning Machine/Deep Learning, AI, Computer Vision, Autonomous Mobile Robotics and Computer Graphics.
 
 <!--https://www.sitepoint.com/github-profile-readme/->
 <!--https://github.com/devicons/devicon/tree/master/icons->
