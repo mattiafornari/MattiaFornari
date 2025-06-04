@@ -18,6 +18,7 @@ I am a Computer Engineering Student 💻:.
 <!--- 🤖: I'm also interested in Advanced Math (Calculus and so on) and Quantum Computing.
 - 🔭 I’m currently working on mini-drone project⚡-->
 - 🔭 I’m currently working on Multiclass Image Classification project⚡
+- 👀 HAR Classification project repository coming soon
 ---
 
 ### :hammer_and_wrench: Languages, frameworks and tools that I know and am learning to use:
