@@ -17,11 +17,11 @@ I am a Computer Engineering Student 💻:.
 - 🧑‍🎓: I’m currently focusing on Machine Learning, AI, Deep Learning, Computer Vision and Autonomous Mobile Robotics.
 <!--- 🤖: I'm also interested in Advanced Math (Calculus and so on) and Quantum Computing.
 - 🔭 I’m currently working on mini-drone project⚡-->
-- 🔭 I’m currently working on Multiclass Image Classification project⚡
+- 🔭 I’m currently working on: Multiclass Image Classification project and Remote Sensing Image Semantic Segmentation project.
 - 👀 HAR Classification project repository coming soon
 ---
 
-### :hammer_and_wrench: Languages, frameworks and tools that I know and am learning to use:
+### :hammer_and_wrench: Languages, frameworks and tools that I know and I am learning to use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -47,10 +47,9 @@ I am a Computer Engineering Student 💻:.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LATEX" alt="LATEX" width="40" height="40"/>&nbsp;
-  
 </div>
 
-Inoltre: Simulink (conoscenze base), PIL, scikit-image (conoscenze base). Conoscenza limitata in streamlit, flask, fastapi.
+Additionally: Simulink (basic knowledge, used also in my Bachelor Thesis), PIL, scikit-image (basic knowledge, used in computer vision projects).
 
 ---
 
