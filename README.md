@@ -21,7 +21,7 @@ I am a Computer Engineering Student 💻:.
 - 👀 HAR Classification project repository coming soon
 ---
 
-### :hammer_and_wrench: Languages, frameworks and tools that I know and I am learning to use:
+<!-- ### :hammer_and_wrench: Languages, frameworks and tools that I know and I am learning to use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -49,7 +49,7 @@ I am a Computer Engineering Student 💻:.
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LATEX" alt="LATEX" width="40" height="40"/>&nbsp;
 </div>
 
-Additionally: Simulink (basic knowledge, used also in my Bachelor Thesis), PIL, scikit-image (basic knowledge, used in computer vision projects).
+Additionally: Simulink (basic knowledge, used also in my Bachelor Thesis), PIL, scikit-image (basic knowledge, used in computer vision projects). -->
 
 ---
 
