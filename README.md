@@ -51,7 +51,6 @@ I am a Computer Engineering Student 💻:.
 
 Additionally: Simulink (basic knowledge, used also in my Bachelor Thesis), PIL, scikit-image (basic knowledge, used in computer vision projects). -->
 
----
 
 ### ❗: Projects :
 Soon new projects concerning Machine/Deep Learning, AI, Computer Vision, Autonomous Mobile Robotics and Computer Graphics.
