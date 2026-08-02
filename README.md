@@ -15,8 +15,8 @@
 ### 👨‍💻 About Me :
 I am a Computer Engineering Student 💻:.
 - 🧑‍🎓: I’m currently focusing on Machine Learning, AI, Deep Learning, Computer Vision and Autonomous Mobile Robotics.
-- 🔭 I’m currently working on: Multiclass Image Classification project and Remote Sensing Image Semantic Segmentation project.
-- 👀 HAR Classification project repository coming soon
+- 🤖 I'm currently working on Unitree G1 EDU U6 with Inspire Hands RH56DFTP for Vision-Based Dexterous Manipulation Learning
+- 👀 I’m also interested in Quantum computing and Quantum AI
 ---
 
 
