@@ -23,7 +23,7 @@ I am a Computer Engineering Student 💻:.
 ### ❗: Projects :
 Soon new projects concerning Machine/Deep Learning, AI, Computer Vision, Autonomous Mobile Robotics and Computer Graphics.
 
-Selected projects available on request (private repositories).
+Selected projects available on request (private repositories) subject to an NDA.
 
 <!--https://www.sitepoint.com/github-profile-readme/->
 <!--https://github.com/devicons/devicon/tree/master/icons->
